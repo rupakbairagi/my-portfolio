@@ -65,26 +65,27 @@ P{
 
 .experience{
     box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
+    border-radius: 10px;
     height: 70%;
 }
 .experiences{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left 50%;
+
     
 }
+
 #full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(360deg, lightSalmon, tomato);
-    border-image-slice: 1;
+    border-left: 7px solid tomato;
+      
 }
 #baby{
-    border-left: 7px solid;
-    border-image: linear-gradient(360deg, blue, cyan);
-    border-image-slice: 1;
-
+    
+    border-left: 7px solid blue;
+       
 }
+
 footer p{
     text-align: center;
     font-size: 15px;
